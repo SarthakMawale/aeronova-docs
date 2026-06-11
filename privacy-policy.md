@@ -1,4 +1,4 @@
-# Privacy Policy — AeroNova Prime
+# Privacy Policy — AeroNova
 
 **Last updated:** June 12, 2025  
 **Developer:** Sarthak | Sanerex Development  
@@ -8,7 +8,7 @@
 
 ## 1. Introduction
 
-AeroNova Prime ("the Bot") is a Discord music bot developed by Sanerex Development. This Privacy Policy explains what data we collect, how we use it, and your rights regarding that data. By using AeroNova in your server, you agree to this policy.
+AeroNova ("the Bot") is a Discord music bot developed by Sanerex Development. This Privacy Policy explains what data we collect, how we use it, and your rights regarding that data. By using AeroNova in your server, you agree to this policy.
 
 ---
 
@@ -24,7 +24,6 @@ AeroNova Prime ("the Bot") is a Discord music bot developed by Sanerex Developme
 ### 2.2 User Data
 | Data | Purpose |
 |------|---------|
-| User ID | Playlists, saved queues, XP/level system, vote tracking |
 | Voice channel presence | Queue management, skip voting, 24/7 mode |
 | Message content (prefix commands) | Parsing and executing bot commands (e.g. `!play`, `!skip`) |
 
@@ -32,8 +31,7 @@ AeroNova Prime ("the Bot") is a Discord music bot developed by Sanerex Developme
 | Data | Purpose |
 |------|---------|
 | Songs played (URI, title, artist) | Global song stats, top charts, recommendations |
-| Listening time | XP system, leaderboard |
-| Songs played count | User profile, badges |
+
 
 ### 2.4 What We Do NOT Collect
 - Passwords or authentication tokens
@@ -112,7 +110,7 @@ You have the right to:
 - **Delete** — request deletion of your data at any time
 - **Opt-out** — stop using the bot; your data will be removed upon request
 
-To exercise any of these rights, contact us via our [Support Server](https://discord.gg/SZrmhwvsqD).
+To exercise any of these rights, contact us via our [Support Server](https://discord.gg/BU53R7ZEKd).
 
 ---
 
@@ -145,4 +143,4 @@ We may update this policy from time to time. Changes will be announced in our [S
 **Developer:** Sarthak  
 **Agency:** Sanerex Development  
 **Discord:** [Sanerex Development](https://discord.gg/BU53R7ZEKd)  
-**Bot ID:** 1509948611599925328
+**Bot ID:** 1450940309524447384
